@@ -3,6 +3,7 @@ Python console installer that uses Requests module
 # Usage
 Edit [config.py](https://github.com/knockstick/PyFastInstall/blob/main/config.py). URL must be a direct link to the file.
 
+To start installer, run [Installer.py](https://github.com/knockstick/PyFastInstall/blob/main/Installer.py)
 **Done!**
 
 # Converting .py to .exe with PyInstaller
